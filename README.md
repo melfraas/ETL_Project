@@ -1,7 +1,4 @@
 # ETL_Project
- 
-# for-now
-> Sandwich Scraping Experts
 
 ## Table of contents
 
