@@ -17,7 +17,7 @@
 #### Brief Description of the Final Database : 
 ##### Fast Food nutrition. Accumulate fast food sandwich nutritional facts.
 
-### Sandwich Fast Food Restaurants:
+### Colleges by State:
 * Jimmy Johns - 32 sandwiches
 * Panera - 22 sandwiches
 * Subway - 38 sandwiches
@@ -55,23 +55,23 @@ We will be using Postgres since our collective data is all similar and we are no
 
 | Team Member           | Role                          | Github username |        
 | -----------           | -----------                   | -----------
-| Veena Uppalapati      | Panera transformer            | veenauppalapati |
-| Josh Acampado         | Scraping from a dying company | josh-acampado   |
-| Sherin Mattappallil   | Subway Scraper                | sherinmatt      |
-| Jennifer Dean         | Jimmy Johns Jockey            | Jen-Dean        |
-| Shamikasule           | Blimpie Best                  | shamikasule     |
+| Melissa Fraas         | Panera transformer            | veenauppalapati |
+| Matteo Bommarito      | Scraping from a dying company | josh-acampado   |
+| Gary Wong             | Subway Scraper                | sherinmatt      |
+| Emily Leniart         | Jimmy Johns Jockey            | Jen-Dean        |
 
 ## General info
 How do Sandwhiches Shop items and nutritional information relate to one another?
 
 ## Technologies
-* SQL
-* Splinter
+* Jupyter Notebook
 * Beautifulsoup
 * Pandas
 * Python
 * PostgresSQL
 * QUICK DBD
+* NumPy
+* GitHub
 
 ## Data Extraction, Transfer, Load
 ##### Database Relationship
