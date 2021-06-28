@@ -15,7 +15,7 @@
 ## Project Proposal
 
 #### Brief Description of the Final Database : 
-##### A breakdown of Bachelor's Degree majors by sex and state, and a list of colleges in each state.
+##### A breakdown of Bachelor's Degree majors by age, sex, and state, and a list of colleges in each state.
 
 ### Colleges by State:
 * Jimmy Johns - 32 sandwiches
@@ -48,13 +48,16 @@ We will be using Postgres since our collective data is all similar and we are no
 
 | Team Member           | Role                          | Github username |        
 | -----------           | -----------                   | -----------
-| Melissa Fraas         | Panera transformer            | veenauppalapati |
-| Matteo Bommarito      | Scraping from a dying company | josh-acampado   |
-| Gary Wong             | Subway Scraper                | sherinmatt      |
-| Emily Leniart         | Jimmy Johns Jockey            | Jen-Dean        |
+| Melissa Fraas         | Data Cleaner                  | melfraas |
+| Matteo Bommarito      | Web Scraper                   | garykaiwong   |
+| Gary Wong             | Editorial/Clean Up Crew       | matteo005    |
+| Emily Leniart         | Database Master               | leniartemily       |
 
 ## General info
-How do Sandwhiches Shop items and nutritional information relate to one another?
+How many Bachelor's Degree holders are in each state? 
+Does number of colleges in each state have any bearing on the state population that goes to college? 
+Which majors are popular in which states?
+
 
 ## Technologies
 * Jupyter Notebook
