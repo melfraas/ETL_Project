@@ -49,8 +49,8 @@ We will be using Postgres since our collective data is all similar and we are no
 | Team Member           | Role                          | Github username |        
 | -----------           | -----------                   | -----------
 | Melissa Fraas         | Data Cleaner                  | melfraas |
-| Matteo Bommarito      | Web Scraper                   | garykaiwong   |
-| Gary Wong             | Editorial/Clean Up Crew       | matteo005    |
+| Matteo Bommarito      | Web Scraper                   | matteo005  |
+| Gary Wong             | Editorial/Clean Up Crew       | garykaiwong   |
 | Emily Leniart         | Database Master               | leniartemily       |
 
 ## General info
