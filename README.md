@@ -15,7 +15,7 @@
 ## Project Proposal
 
 #### Brief Description of the Final Database : 
-##### Fast Food nutrition. Accumulate fast food sandwich nutritional facts.
+##### A breakdown of Bachelor's Degree majors by sex and state, and a list of colleges in each state.
 
 ### Colleges by State:
 * Jimmy Johns - 32 sandwiches
@@ -30,14 +30,7 @@
 * We will also list out how much exercise it takes to burn the sandwiches off
 
 #### A list of data sources :
-*  [Food Nutrition.org](https://fastfoodnutrition.org/)
-*  [Subway](https://www.subway.com/en-US/MenuNutrition/Nutrition/NutritionGrid)
-*  [Blimpie](https://www.blimpie.com/assets/BlimpieNutritionalInfo.pdf)
-*  [Jimmy Johns](https://resources.jimmyjohns.com/downloadable-files/NutritionGuide.pdf)
-*  [Panera](https://www-beta.panerabread.com/content/dam/panerabread/integrated-web-content/documents/Panera-Nutrition.pdf)
-*  [Quiznos](https://www.quiznos.com/assets/images/NutritionalInfo.pdf)
-*  [Choose My Plate](https://www.choosemyplate.gov/resources/physical-activity-calories-burn)
-*  [NutriStrategy](https://www.nutristrategy.com/caloriesburned.htm)
+*  Bachelor's Degree Majors by Age, Sex, and State [https://www.kaggle.com/tjkyner/bachelor-degree-majors-by-age-sex-and-state]
 
 #### Brief summary of the 3 ETL steps we will take to create this database:
 
