@@ -15,7 +15,7 @@
 ## Project Proposal
 
 #### Brief Description of the Final Database : 
-##### Fast Food nutrition. Accumulate fast food sandwich nutritional facts.
+##### A breakdown of Bachelor's Degree majors by age, sex, and state, and a list of colleges in each state.
 
 ### Colleges by State:
 * Jimmy Johns - 32 sandwiches
@@ -30,14 +30,7 @@
 * We will also list out how much exercise it takes to burn the sandwiches off
 
 #### A list of data sources :
-*  [Food Nutrition.org](https://fastfoodnutrition.org/)
-*  [Subway](https://www.subway.com/en-US/MenuNutrition/Nutrition/NutritionGrid)
-*  [Blimpie](https://www.blimpie.com/assets/BlimpieNutritionalInfo.pdf)
-*  [Jimmy Johns](https://resources.jimmyjohns.com/downloadable-files/NutritionGuide.pdf)
-*  [Panera](https://www-beta.panerabread.com/content/dam/panerabread/integrated-web-content/documents/Panera-Nutrition.pdf)
-*  [Quiznos](https://www.quiznos.com/assets/images/NutritionalInfo.pdf)
-*  [Choose My Plate](https://www.choosemyplate.gov/resources/physical-activity-calories-burn)
-*  [NutriStrategy](https://www.nutristrategy.com/caloriesburned.htm)
+*  Bachelor's Degree Majors by Age, Sex, and State [https://www.kaggle.com/tjkyner/bachelor-degree-majors-by-age-sex-and-state]
 
 #### Brief summary of the 3 ETL steps we will take to create this database:
 
@@ -55,13 +48,16 @@ We will be using Postgres since our collective data is all similar and we are no
 
 | Team Member           | Role                          | Github username |        
 | -----------           | -----------                   | -----------
-| Melissa Fraas         | Panera transformer            | veenauppalapati |
-| Matteo Bommarito      | Scraping from a dying company | josh-acampado   |
-| Gary Wong             | Subway Scraper                | sherinmatt      |
-| Emily Leniart         | Jimmy Johns Jockey            | Jen-Dean        |
+| Melissa Fraas         | Data Cleaner                  | melfraas |
+| Matteo Bommarito      | Web Scraper                   | garykaiwong   |
+| Gary Wong             | Editorial/Clean Up Crew       | matteo005    |
+| Emily Leniart         | Database Master               | leniartemily       |
 
 ## General info
-How do Sandwhiches Shop items and nutritional information relate to one another?
+How many Bachelor's Degree holders are in each state? 
+Does number of colleges in each state have any bearing on the state population that goes to college? 
+Which majors are popular in which states?
+
 
 ## Technologies
 * Jupyter Notebook
