@@ -29,7 +29,7 @@
 
 #### A list of data sources :
 *  2019 Bachelor's Degree Majors by Age, Sex, and State [https://www.kaggle.com/tjkyner/bachelor-degree-majors-by-age-sex-and-state]
-*  
+*  A-Z list of US Colleges and Universities [https://www.theedadvocate.org/an-a-z-list-of-u-s-colleges-and-universities/]
 
 #### Brief summary of the 3 ETL steps we will take to create this database:
 
