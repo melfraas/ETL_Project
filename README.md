@@ -214,7 +214,7 @@ AND "205 lbs" >= [ENTER YOUR SANDWICH CAL]/[ENTER MINS WORKOUT]
 Project is: _finished_
 
 ## Inspiration
-Hunger, and Rutgers Data Science Bootcamp
+Gretel, and Rutgers Data Science Bootcamp
 
 ## Contact
 Created by Melissa Fraas, Matteo Bommarito, Gary Wong, Emily Leniart
