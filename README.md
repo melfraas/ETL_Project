@@ -217,4 +217,4 @@ Project is: _finished_
 Hunger, and Rutgers Data Science Bootcamp
 
 ## Contact
-Created by Jennifer Dean, Shamika Sule, Josh Acampado, Veena Uppalapati, Sherin Mattappallil
+Created by Melissa Fraas, Matteo Bommarito, Gary Wong, Emily Leniart
