@@ -99,21 +99,8 @@ Which majors are popular in which states?
 - We initially planned on scraping data from the Blimpie website, but because of unforseeable reasons, we weren't able to collect that data.
 - Therefore, we just focused on extracting data from Panera, Quiznos, Subway and Jimmy Johns. 
 
-### Subway 
-- During the extraction process, because of the large amounts of information and time constraints, ended up focusing only on extracting the Subway sandwich length: 6" data only, using Beautiful soup etc. 
-- The intial subway dataframe, before transformation, just had the following nutrient values: calories, total_fat, trans_fat, cholestrol, total_carbohydrates, dietary fiber, protein. 
-- During the transformation process, the dataframe was cleaned up. More columns were added to the dataframe. Then, the final subway table was exported as csv for the loading process.
-
-### Panera
-- Extracted data Panera website and tranformed the data as necessary.
-
-### Quiznos
-- Extracted data from the PDF through Tabula into CSV (Used tabula to pull the data from 21 sanwiches). Created a document with sandwich description. Viewed the CSV's in Excel to reformat the data. Later, rows were shifted to match data and delete blank rows. Lastly, loaded the multiple csvs to merge in Jupyter Notebook (merged 3 csv files into one dataframe).
-- During the tranformation process, firstly, cleaned up the dataframe. Renamed columns, and dropped any rows containing "Half Salad" or "Full Salad". Then, the index was reset. Exported final table as CSV to lead with group. Lastly, combined all the Restaurant csvs for final load.
-
 ## Loading the Data
-- Combined all the collective restaurant nutrition csvs into Postgres. Created a collective jupyter notebook for the loading process. Loaded the csvs to dataframe.  Made the necessary changes to the dataframe such as renaming columns. Made the connection. 
-- Loaded the collective restaurant nutrition dataframe to database. 
+- Combined all the collective restaurant nutrition csv's into Postgres. Created a collective jupyter notebook for the loading process. Loaded the csvs to dataframe.  Made the necessary changes to the dataframe such as renaming columns. Made the connection. 
 
 ## Example Queries
 
