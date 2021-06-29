@@ -29,6 +29,7 @@
 
 #### A list of data sources :
 *  2019 Bachelor's Degree Majors by Age, Sex, and State [https://www.kaggle.com/tjkyner/bachelor-degree-majors-by-age-sex-and-state]
+*  
 
 #### Brief summary of the 3 ETL steps we will take to create this database:
 
@@ -43,12 +44,12 @@ We will be using Postgres since our collective data is all similar and we are no
 
 #### Team Roles
 
-| Team Member           | Role                          | Github username |        
-| -----------           | -----------                   | -----------
-| Melissa Fraas         | Data Cleaner                  | melfraas |
-| Matteo Bommarito      | Web Scraper                   | matteo005  |
-| Gary Wong             | Editorial/Clean Up Crew       | garykaiwong   |
-| Emily Leniart         | Database Master/Queen of Queries              | leniartemily       |
+| Team Member           | Role                                     | Github username |        
+| -----------           | -----------                              | -----------
+| Melissa Fraas         | Data Cleaner                             | melfraas |
+| Matteo Bommarito      | Web Scraper                              | matteo005  |
+| Gary Wong             | Editorial/Clean Up Crew                  | garykaiwong   |
+| Emily Leniart         | Database Master/Queen of Queries         | leniartemily       |
 
 ## General info
 How many Bachelor's Degree holders are in each state? 
