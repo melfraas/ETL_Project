@@ -19,10 +19,7 @@
 
 ### Colleges by State:
 * Jimmy Johns - 32 sandwiches
-* Panera - 22 sandwiches
-* Subway - 38 sandwiches
-* Quiznos - 24 sandwiches
-* Blimpie - 35 sandwiches
+
 
 #### Why is our final database useful to a hypothetical organization?
 * To create a repository for people interested in nutrition and making positive food choices
@@ -220,4 +217,4 @@ Project is: _finished_
 Hunger, and Rutgers Data Science Bootcamp
 
 ## Contact
-Created by Jennifer Dean, Shamika Sule, Josh Acampado, Veena Uppalapati, Sherin Mattappallil
+Created by Melissa Fraas, Matteo Bommarito, Gary Wong, Emily Leniart
