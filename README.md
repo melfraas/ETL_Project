@@ -22,9 +22,10 @@
 
 
 #### Why is our final database useful to a hypothetical organization?
-* To create a repository for people interested in nutrition and making positive food choices
-* For a potential sandwich shop to get competitor data to create a better shop.
-* We will also list out how much exercise it takes to burn the sandwiches off
+* To create a repository for people interested in colleges within a particular state.
+* For a potential employer to find local colleges and popular majors within their state to make decisions about recruiting efforts.
+* Which majors are popular among men vs. women, and in which age groups.
+* How degree majors vary in popularity across different states. 
 
 #### A list of data sources :
 *  Bachelor's Degree Majors by Age, Sex, and State [https://www.kaggle.com/tjkyner/bachelor-degree-majors-by-age-sex-and-state]
@@ -34,12 +35,11 @@
 We will be using Postgres since our collective data is all similar and we are not having different kinds of data.  Also, since we have specific information, we can also make sure to secure its type. 
 
 #### ETL STEPS
-1. Scrape the data for sandwiches for the chosen joints from https://fastfoodnutrition.org/
-2. Collect all the required data
+1. Find data set for Bachelor's Degree majors broken down by age, sex, and state.
+2. Scrape the web for a list of colleges by state
 3. Create a [Quick DBD flow chart](https://github.com/Jen-Dean/for-now/blob/main/QuickDBD_Set_Up/QuickDBD_ScreenShot.png)
 4. Merge all the collected data into postgres sql database
-5. Create a comprehensive ReadMe File
-6. Create sample queries
+5. Create sample queries
 
 #### Team Roles
 
@@ -48,7 +48,7 @@ We will be using Postgres since our collective data is all similar and we are no
 | Melissa Fraas         | Data Cleaner                  | melfraas |
 | Matteo Bommarito      | Web Scraper                   | matteo005  |
 | Gary Wong             | Editorial/Clean Up Crew       | garykaiwong   |
-| Emily Leniart         | Database Master               | leniartemily       |
+| Emily Leniart         | Database Master/Queen of Queries              | leniartemily       |
 
 ## General info
 How many Bachelor's Degree holders are in each state? 
