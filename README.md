@@ -117,26 +117,26 @@ Which majors are popular in which states?
 
 ## Example Queries
 
-### Finding Sandwich options
+### Finding College options
 
 Here are some example queries you can run when looking for a specific sandwich name:
 
-#### Based on Restaurant:
+#### Based on State:
 
 ```sql
-  SELECT sandwich_name 
-  FROM sandwiches
-  WHERE restaurant_name = 'Jimmy Johns'
+  SELECT state 
+  FROM bach_data
+  WHERE state = 'NJ'
 ```
 ```sql
-  SELECT sandwich_name 
-  FROM sandwiches
-  WHERE restaurant_name = 'Quiznos'
+  SELECT state 
+  FROM bach_data
+  WHERE state = 'CA'
 ```
 ```sql
-  SELECT sandwich_name 
-  FROM sandwiches
-  WHERE restaurant_name = 'Subway'
+  SELECT state 
+  FROM bach_data
+  WHERE state = 'PA'
 ```
 ```sql
   SELECT sandwich_name 
@@ -144,12 +144,12 @@ Here are some example queries you can run when looking for a specific sandwich n
   WHERE restaurant_name = 'Panera'
 ```
 
-#### Based on Nutrition Amounts:
+#### Based on Number of People within a Certain Major:
 
 ```sql
-  SELECT sandwich_name, restaurant_name, calories_cal_
-  FROM sandwiches 
-  WHERE calories_cal_ < 500
+  SELECT "subject"
+  from bach-data
+  where subject <= 1000
 ```
 ```sql
   SELECT sandwich_name, restaurant_name, calories_cal_
