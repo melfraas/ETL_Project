@@ -19,10 +19,7 @@
 
 ### Colleges by State:
 * Jimmy Johns - 32 sandwiches
-* Panera - 22 sandwiches
-* Subway - 38 sandwiches
-* Quiznos - 24 sandwiches
-* Blimpie - 35 sandwiches
+
 
 #### Why is our final database useful to a hypothetical organization?
 * To create a repository for people interested in nutrition and making positive food choices
