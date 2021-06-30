@@ -69,8 +69,7 @@ Which majors are popular in which states?
 
 ## Data Extraction, Transfer, Load
 ##### Database Relationship
-![quickdbd](https://github.com/Jen-Dean/for-now/blob/main/QuickDBD_Set_Up/QuickDBD_ScreenShot.png)
-
+!![image](https://user-images.githubusercontent.com/81319622/123888152-d9220b80-d920-11eb-88b9-c84b8815e2f8.png)
 ## Extrapolations
 
 ### Customizations of Sandwhiches
