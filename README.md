@@ -7,7 +7,7 @@
 * [Technologies](#technologies)
 * [Data Extraction, Transfer, Load](#Data-Extraction,-Transfer,-Load)
 * [Example Queries](#Example-Queries)
-* [Features](#features)
+* [Major Choices](#Major-Choices)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -103,37 +103,40 @@ Which majors are popular in which states?
 
 ## Example Queries
 
-### Finding College options
+### Finding State options
 
-Here are some example queries you can run when looking for a specific sandwich name:
+Here are some example queries you can run when looking for a specific State's number of people with a Bachelor Degree
 
 #### Based on State:
 
 ```sql
   SELECT state 
   FROM bach_data
-  WHERE state = 'NJ'
+  WHERE state = 'New Jersey'
 ```
 ```sql
   SELECT state 
   FROM bach_data
-  WHERE state = 'CA'
+  WHERE state = 'California'
 ```
 ```sql
   SELECT state 
   FROM bach_data
-  WHERE state = 'PA'
+  WHERE state = 'Pennsylvania'
 ```
-```sql
-  SELECT sandwich_name 
-  FROM sandwiches
-  WHERE restaurant_name = 'Panera'
 ```
 
-#### Based on Number of People within a Certain Major:
+### Major Choices:
+Science and Engineering
+Science and Engineering and Related Fields
+Business
+Education
+Arts, Humanities and others
+
+### Based on Number of People within a Certain Major:
 
 ```sql
-  SELECT "subject"
+  SELECT ""
   from bach-data
   where subject <= 1000
 ```
