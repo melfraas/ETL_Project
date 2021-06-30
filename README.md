@@ -99,7 +99,7 @@ Which majors are popular in which states?
 - Therefore, we just focused on extracting data from Panera, Quiznos, Subway and Jimmy Johns. 
 
 ## Loading the Data
-- Combined all the collective restaurant nutrition csv's into Postgres. Created a collective jupyter notebook for the loading process. Loaded the csvs to dataframe.  Made the necessary changes to the dataframe such as renaming columns. Made the connection. 
+- Combined all the collective csv's into Postgres. Created a collective jupyter notebook for the loading process. Loaded the csvs to dataframe.  Made the necessary changes to the dataframe such as renaming columns. Made the connection. 
 
 ## Example Queries
 
