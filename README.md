@@ -38,7 +38,7 @@ We will be using Postgres since our collective data is all similar and we are no
 #### ETL STEPS
 1. Find data set for Bachelor's Degree majors broken down by age, sex, and state.
 2. Scrape the web for a list of colleges by state
-3. Create a [Quick DBD flow chart](https://github.com/Jen-Dean/for-now/blob/main/QuickDBD_Set_Up/QuickDBD_ScreenShot.png)
+3. Create a [Quick DBD flow chart](https://user-images.githubusercontent.com/81319622/123888152-d9220b80-d920-11eb-88b9-c84b8815e2f8.png)
 4. Merge all the collected data into postgres sql database
 5. Create sample queries
 
