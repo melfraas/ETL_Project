@@ -24,6 +24,8 @@
 * Pennsylvania - 108
 * Illinois - 87
 
+![image](https://user-images.githubusercontent.com/81267416/124055736-71d48c00-d9f2-11eb-817b-76de2d2b5890.png)
+
 
 #### Why is our final database useful to a hypothetical organization?
 * To create a repository for people interested in colleges within a particular state.
