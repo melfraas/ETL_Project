@@ -17,8 +17,12 @@
 #### Brief Description of the Final Database : 
 ##### A breakdown of Bachelor's Degree majors by age, sex, and state, and a list of colleges in each state.
 
-### Colleges by State:
-* Jimmy Johns - 32 sandwiches
+### States with Most Schools:
+* California - 228
+* New York - 127
+* Texas - 113
+* Pennsylvania - 108
+* Illinois - 87
 
 
 #### Why is our final database useful to a hypothetical organization?
