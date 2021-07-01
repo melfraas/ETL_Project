@@ -24,6 +24,13 @@
 * Pennsylvania - 108
 * Illinois - 87
 
+```sql
+  SELECT state, COUNT(*)
+  FROM university
+  GROUP BY state
+  ORDER BY COUNT (*) DESC
+```
+
 ![image](https://user-images.githubusercontent.com/81267416/124055736-71d48c00-d9f2-11eb-817b-76de2d2b5890.png)
 
 
