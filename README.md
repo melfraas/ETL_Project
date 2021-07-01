@@ -130,7 +130,8 @@ Here are some example queries you can run when looking for a specific State's nu
 ```
 ```
 
-### Major Choices:
+#### Major Choices:
+
 Science and Engineering
 Science and Engineering and Related Fields
 Business
