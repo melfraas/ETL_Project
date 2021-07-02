@@ -110,29 +110,40 @@ Here are some example queries you can run when looking for a specific State's nu
   FROM bach_data
   WHERE state = 'Pennsylvania'
 ```
-```
 
-#### Major Choices:
+### Based on Number of People within a Certain Major:
 
+### Finding Major options
 Science and Engineering
 Science and Engineering and Related Fields
 Business
 Education
 Arts, Humanities and others
-
-### Based on Number of People within a Certain Major:
+____
+FOR Men in certain MAJOR (example below shows "science and engineering" majors.
+FOR Female in certain MAJOR (example below shows "education" majors.
 
 ```sql
-  SELECT ""
-  from bach-data
-  where subject <= 1000
+  SELECT sex
+  FROM bach-data
+  WHERE sex = 'Male'
+  AND
+  WHERE science_and_engineering <= 1000
 ```
-
+```sql
+  SELECT sex
+  FROM bach-data
+  WHERE sex = 'Female'
+  AND
+  WHERE education <= 1000
+```
 ## Status
 Project is: _finished_
 
 ## Inspiration
-Gretel, and Rutgers Data Science Bootcamp
+How seniors in highschool select the university of their dreams! Is their heart set on going to a particular school in Florida post-pandemic? If so, they are in the right place because this data showcases all of the schools in Florida! Then they can look up the field they are most interested in and start their networking!
+It is all about the networking for a highschool senior who is going from virtual prom to climbing the ladder of succcess!
+
 
 ## Contact
 Created by Melissa Fraas, Matteo Bommarito, Gary Wong, Emily Leniart
