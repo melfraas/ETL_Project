@@ -155,10 +155,6 @@ Arts, Humanities and others
   where subject <= 1000
 ```
 
-## Features
-- Find all the nutiriton of famous sandwich restaurants
-- Discover the value of how many calories certain exercises burn per min depending on weight
-
 ## Status
 Project is: _finished_
 
