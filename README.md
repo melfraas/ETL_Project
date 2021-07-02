@@ -83,11 +83,6 @@ Which majors are popular in which states?
 ## Data Extraction, Transfer, Load
 ##### Database Relationship
 ![image](https://user-images.githubusercontent.com/81319622/123888152-d9220b80-d920-11eb-88b9-c84b8815e2f8.png)
-## Extrapolations
-
-### Customizations of Sandwhiches
-- Every single sandwich chain offers a unlimited number of customizations for each sandwich.  For a cleaner database we decided to forgo customizations and stick with the main "as is" offerings.
-- We did note the differences in bread types, as well as sandwhich lengths
 
 ## Loading the Data
 - Combined all the collective csv's into Postgres. Created a collective jupyter notebook for the loading process. Loaded the csvs to dataframe.  Made the necessary changes to the dataframe such as renaming columns. Made the connection. 
